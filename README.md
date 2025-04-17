@@ -30,3 +30,5 @@ https://frejm.rs/
 6. https://www.framesi.rs/
 7. https://salonnebo.rs/
 8. https://bidok.rs/
+
+Saddly, a lot of the websites have changed, or are no longer active, and I have not made a snapshot of them... There were about 5-10 more WordPress websites that I have created.
